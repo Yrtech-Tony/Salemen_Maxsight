@@ -2,7 +2,7 @@
 <Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ShowAllFiles</ProjectView>
-    <PublishUrlHistory>C:\Workspace\Salemen\发布文件\|ftp://106.37.165.227/DSAT_PadClient/|ftp://106.120.243.67/DSAT_PadClient/|ftp://211.99.234.177/DSAT_PadClient/|ftp://211.99.234.177/XHXDSAT.Client.Publish/</PublishUrlHistory>
+    <PublishUrlHistory>C:\Workspace\Salemen_Maxsight\发布文件\|C:\Workspace\Salemen\发布文件\|ftp://106.37.165.227/DSAT_PadClient/|ftp://106.120.243.67/DSAT_PadClient/|ftp://211.99.234.177/DSAT_PadClient/</PublishUrlHistory>
     <InstallUrlHistory>http://123.57.229.128/SalemenClient/|http://106.37.165.227:2121/XHX.DSAT.PadClient/|http://106.120.243.67:2121/XHX.DSAT.PadClient/|http://211.99.234.177:2121/XHX.DSAT.PadClient/|http://211.99.234.177/XHX.DSAT.PadClient/</InstallUrlHistory>
     <SupportUrlHistory>
     </SupportUrlHistory>

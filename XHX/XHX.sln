@@ -3,24 +3,24 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XHX", "XHX\XHX.csproj", "{B09475D7-FC01-4515-86FA-FF6A130177CD}"
 EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "XHXWebSite", "..\..\人员信息登记\XHXWebSite\", "{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "XHXWebSite", "..\XHXWebSite\", "{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFramework = "3.5"
-		Debug.AspNetCompiler.VirtualPath = "/XHXWebSite"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\人员信息登记\XHXWebSite\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\XHXWebSite\"
+		Debug.AspNetCompiler.VirtualPath = "/XHXWebSite(1)"
+		Debug.AspNetCompiler.PhysicalPath = "..\XHXWebSite\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\XHXWebSite(1)\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/XHXWebSite"
-		Release.AspNetCompiler.PhysicalPath = "..\..\人员信息登记\XHXWebSite\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\XHXWebSite\"
+		Release.AspNetCompiler.VirtualPath = "/XHXWebSite(1)"
+		Release.AspNetCompiler.PhysicalPath = "..\XHXWebSite\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\XHXWebSite(1)\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
-		VWDPort = "50767"
+		VWDPort = "54740"
 	EndProjectSection
 EndProject
 Global
@@ -43,16 +43,16 @@ Global
 		{B09475D7-FC01-4515-86FA-FF6A130177CD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B09475D7-FC01-4515-86FA-FF6A130177CD}.Release|Mixed Platforms.ActiveCfg = Release|x86
 		{B09475D7-FC01-4515-86FA-FF6A130177CD}.Release|Mixed Platforms.Build.0 = Release|x86
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Debug|.NET.ActiveCfg = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Debug|.NET.Build.0 = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Debug|Any CPU.ActiveCfg = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Debug|Mixed Platforms.Build.0 = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Release|.NET.ActiveCfg = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Release|.NET.Build.0 = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Release|Any CPU.ActiveCfg = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
-		{1D9E5F99-DD80-493D-B25C-D3CD6621F9FB}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Debug|.NET.ActiveCfg = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Debug|.NET.Build.0 = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Release|.NET.ActiveCfg = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Release|.NET.Build.0 = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{F396A3F3-4ABD-4A1A-B791-7FBB6D4BADE1}.Release|Mixed Platforms.Build.0 = Debug|.NET
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
